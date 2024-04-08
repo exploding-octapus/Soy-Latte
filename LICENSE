@@ -48,6 +48,7 @@ git clone https://github.com/ageitgey/face_recognition
 git clone https://github.com/Shankar2442/Face-Detection
 git clone https://github.com/ooni/probe
 sudo snap install klettres
+git clone https://github.com/id-Software/RTCW-SP
 git clone https://github.com/skyjake/Doomsday-Engine.git
 git clone https://github.com/ValveSoftware/halflife
 sudo snap install boa
