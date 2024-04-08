@@ -54,6 +54,7 @@ git clone https://github.com/ValveSoftware/halflife
 sudo snap install boa
 git clone https://github.com/mitallast/diablo-js
 git clone https://github.com/halo-dev/halo
+git clone https://github.com/plandex-ai/plandex
 git clone https://github.com/roytam1/palemoon27
 sudo apt-get install gparted
 sudo snap install snapd
