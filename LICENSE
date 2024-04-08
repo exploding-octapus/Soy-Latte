@@ -20,17 +20,15 @@ sudo apt update
 apt install libgtk-2.0-dev
 git clone https://github.com/asbestomolesto/mindguard
 sudo apt install torbrowser-launcher
-git clone https://github.com/hmlendea/gfn-electron
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 Delay: 75
 sudo apt install ./google-chrome-stable_current_amd64.deb
-cat /etc/apt/sources.list.d/google-chrome.list
-git clone https://github.com/YoobieRE/uplay-install-reverse
-git clone https://github.com/CC-in-the-Cloud/General
+cat /etc/apt/sources.list.d/google-chrome.list         ju
 git clone https://github.com/itc-wgtools/New-iTC-Admin-template
 git clone https://github.com/soundcloud
 git clone https://github.com/dolph/dictionary/find/master
 $ cat /usr/share/dict/words | wc -l 235886
+@@@>>..>I had to remove GeForceNOW because its getting a bit glitchy, all of a sudden >... >.>>.
 $ cat enable1.txt | wc -l 172819
 $ cat popular.txt | wc -l 25322
 sudo apt install -y php php-intl php-mbstring php-xml php-apcu php-curl php-sqlite3 composer
