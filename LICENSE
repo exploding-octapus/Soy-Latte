@@ -22,6 +22,7 @@ git clone https://github.com/asbestomolesto/mindguard
 sudo apt install torbrowser-launcher
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 Delay: 75
+git clone https://github.com/yeriomin/play-store-api
 sudo apt install ./google-chrome-stable_current_amd64.deb
 cat /etc/apt/sources.list.d/google-chrome.list         ju
 git clone https://github.com/itc-wgtools/New-iTC-Admin-template
