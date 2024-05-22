@@ -22,10 +22,8 @@ git clone https://github.com/asbestomolesto/mindguard
 sudo apt install torbrowser-launcher
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 Delay: 75
-git clone https://github.com/yeriomin/play-store-api
 sudo apt install ./google-chrome-stable_current_amd64.deb
 cat /etc/apt/sources.list.d/google-chrome.list         ju
-git clone https://github.com/itc-wgtools/New-iTC-Admin-template
 git clone https://github.com/soundcloud
 git clone https://github.com/dolph/dictionary/find/master
 $ cat /usr/share/dict/words | wc -l 235886
@@ -36,27 +34,19 @@ sudo apt install -y php php-intl php-mbstring php-xml php-apcu php-curl php-sqli
 git clone https://gerrit.wikimedia.org/r/mediawiki/core.git mediawiki && git clone https://gerrit.wikimedia.org/r/mediawiki/skins/Vector.git mediawiki/skins/Vector && cd mediawiki
 composer update
 composer mw-install:sqlite
-git clone https://github.com/lencx/ChatGPT
-git clone https://salsa.debian.org/freedombox-team/freedombox.git
-git clone https://github.com/wiglenet/wigle-wifi-wardriving
-git clone https://github.com/BadException/Flipper-Xtreme
-git clone https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 git clone https://github.com/trench-moe/Pornhub-6.11-App-Decompiled
 git clone https://github.com/R2D4C3PO/PornHub-Premium-Generator
-git clone https://github.com/ageitgey/face_recognition
-git clone https://github.com/Shankar2442/Face-Detection
 git clone https://github.com/ooni/probe
 sudo snap install klettres
 git clone https://github.com/id-Software/RTCW-SP
 git clone https://github.com/skyjake/Doomsday-Engine.git
 git clone https://github.com/ValveSoftware/halflife
-sudo snap install boa
 git clone https://github.com/mitallast/diablo-js
 git clone https://github.com/halo-dev/halo
-git clone https://github.com/plandex-ai/plandex
 git clone https://github.com/roytam1/palemoon27
 sudo apt-get install gparted
 sudo snap install snapd
+sudo snap install boa
 sudo install snap store
 apt install cryptsetup
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
@@ -67,7 +57,6 @@ sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 lu
 sudo cryptsetup open /dev/sdxy <Tomato2>
  ●,.:
 Made With great Love @ JellyBabyPSi 
-Make Friends with Me on Facebook, Search for Either Octapi Amore. something , Phew/.
 p[ew!
 Press: CTRL+A
 Press: CTRL+C
