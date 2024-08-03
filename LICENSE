@@ -42,7 +42,14 @@ Press: 1.23
 Press: RIGHT
 Press: EXE
 Press: 4.25
-(ENTER DROPBEARS!)
+(ENTER TRUTHER MOVEMENT DROPBEARS)
+Delay: 60
+Press: SHIFT+9
+Press: EXE
+Press: 0.21
+Press: RIGHT
+Press: EXE
+Press: 5.26
 Delay: 60
 Press: CTRL+A
 Press: CTRL+C
