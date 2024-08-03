@@ -17,11 +17,11 @@ mkfs.ext4.dev/sda3. 2d
 >Be Fantastico to each other, Yo!
 {Firstly - I included a training video from World War 2 that I hope You Enjoy., 
 if have no experience thats OK. Use your knife to steal a gunn.
-git clone https://github.com/id-Software/RTCW-SP
 debootstrap
 sudo get upgrade
 flash install system
 BlinkLED: Pink
+git clone https://github.com/id-Software/RTCW-SP
 *****I'll include Some Feelings of comfort *****<^>
 Press: SHIFT+7
 Press: EXE
