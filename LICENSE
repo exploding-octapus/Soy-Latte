@@ -1,65 +1,308 @@
-lèt me Install onto you a very cool system 
-♡
-I...<^> "I call it the BLT system!"., It was Built By Brenton Hopkins on Behalf of Exploding Octapus,
-It should Always be Given Freely - NOT SOLD!!!, I have never sold my System, Nor will I ever
-You Will have to tell it to STOP INSTALLING as it is Programmed to keep installing on those around You when done!
-I wish You Great access to knowledge and all of life's Plesures in opulent Abundance..
-Remember - NO SELLING THIS SYSTEM!!!!!
-heres the codez
-debootstrap
-sudo get upgrade
-flash install system
-apt-get install ufw
-ufw enable
-ufw default deny incoming
-ufw default allow outgoing
-sudo apt update
-sudo apt install snapd
-sudo snap install core
-sudo apt update 
-apt install libgtk-2.0-dev
-git clone https://github.com/asbestomolesto/mindguard
-sudo apt install torbrowser-launcher
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-Delay: 75
-sudo apt install ./google-chrome-stable_current_amd64.deb
-cat /etc/apt/sources.list.d/google-chrome.list         ju
-git clone https://github.com/soundcloud
-git clone https://github.com/dolph/dictionary/find/master
-$ cat /usr/share/dict/words | wc -l 235886
-@@@>>..>I had to remove GeForceNOW because its getting a bit glitchy, all of a sudden >... >.>>.
-$ cat enable1.txt | wc -l 172819
-$ cat popular.txt | wc -l 25322
-sudo apt install -y php php-intl php-mbstring php-xml php-apcu php-curl php-sqlite3 composer
-git clone https://gerrit.wikimedia.org/r/mediawiki/core.git mediawiki && git clone https://gerrit.wikimedia.org/r/mediawiki/skins/Vector.git mediawiki/skins/Vector && cd mediawiki
-composer update
-composer mw-install:sqlite
-git clone https://github.com/trench-moe/Pornhub-6.11-App-Decompiled
-git clone https://github.com/R2D4C3PO/PornHub-Premium-Generator
-git clone https://github.com/ooni/probe
-sudo snap install klettres
-git clone https://github.com/id-Software/RTCW-SP
-git clone https://github.com/skyjake/Doomsday-Engine.git
-git clone https://github.com/ValveSoftware/halflife
-git clone https://github.com/mitallast/diablo-js
-git clone https://github.com/halo-dev/halo
-git clone https://github.com/roytam1/palemoon27
-sudo apt-get install gparted
-sudo snap install snapd
-sudo snap install boa
-sudo install snap store
-apt install cryptsetup
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
-sudo cryptsetup open /dev/sda0 <Bacon0>
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1
-sudo cryptsetup open /dev/sda1 <Lettuce1>
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda2
-sudo cryptsetup open /dev/sdxy <Tomato2>
- ●,.:
-Made With great Love @ JellyBabyPSi 
-p[ew!
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
 Press: CTRL+A
 Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<^>
+mkfs.ext4.dev/sda0
+mkfs.ext4.dev/sda1
+mkfs.ext4.dev/sda2
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs.ext4.dev/sda3. 2a
+mkfs.ext4.dev/sda3. 2b
+mkfs.ext4.dev/sda3. 2c
+mkfs.ext4.dev/sda3. 2d
+****This has been a $hapeWatch Joint..>
+>Be Fantastico to each other, Yo!
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+
+
