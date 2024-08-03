@@ -22,8 +22,10 @@ sudo get upgrade
 flash install system
 BlinkLED: Pink
 git clone https://github.com/id-Software/RTCW-SP
+****<^> Here's a little something that should feel like a flood of neurotransmitters for your-self...
+git clone https://github.com/tensorflow/tensorflow
 *****I'll include Some Feelings of comfort *****<^>
-Press: SHIFT+8
+Press: SHIFT+9
 Press: EXE
 Press: 7.21
 Press: RIGHT
@@ -34,7 +36,7 @@ Press: EXE
 DELAY: 120
 BlinkLED: Blue
 ******<and stresslessNess.>
-Press: SHIFT+8
+Press: SHIFT+9
 Press: EXE
 Press: 1.23
 Press: RIGHT
@@ -42,8 +44,6 @@ Press: EXE
 Press: 4.25
 (ENTER DROPBEARS!)
 Delay: 60
-****<^> Here's a little something that should feel like a flood of neurotransmitters for your-self...
-git clone https://github.com/tensorflow/tensorflow
 Press: CTRL+A
 Press: CTRL+C
 Press: ALT+F4
